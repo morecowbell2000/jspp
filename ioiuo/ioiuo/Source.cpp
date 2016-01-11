@@ -4,8 +4,10 @@ using namespace std;
 
 int main()
 {
-	cout << "HELLO";
-
+int a;
+	cout << "HELLO" << endl;
+	cin >> a;
+	cout << a;
 	system("PAUSE");
 	return 0;
 }
